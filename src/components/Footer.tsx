@@ -20,11 +20,11 @@ export default function Footer() {
             </ul>
           </div>
           <div className="footer-col">
-            <h3>About</h3>
+            <h3>Contact</h3>
             <ul>
-              <li><a href="#">Our Story</a></li>
-              <li><a href="#">Ingredients</a></li>
-              <li><a href="#">Sustainability</a></li>
+              <li><a href="#contact">Contact Section</a></li>
+              <li><a href="mailto:hello@lumiere.com">hello@lumiere.com</a></li>
+              <li><a href="tel:+1-800-123-4567">+1 (800) 123-4567</a></li>
             </ul>
           </div>
           <div className="footer-col">

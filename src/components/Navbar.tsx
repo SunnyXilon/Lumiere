@@ -22,7 +22,7 @@ export default function Navbar() {
           <ul className="nav-links hide-mobile">
             <li><a href="#shop">Shop</a></li>
             <li><a href="#bestsellers">Bestsellers</a></li>
-            <li><a href="#about">About</a></li>
+            <li><a href="#contact">Contact</a></li>
           </ul>
         </div>
 
